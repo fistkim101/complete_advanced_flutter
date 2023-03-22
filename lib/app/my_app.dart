@@ -1,4 +1,5 @@
 import 'package:complete_advanced_flutter/presentation/color_manager.dart';
+import 'package:complete_advanced_flutter/presentation/style_manager.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatefulWidget {

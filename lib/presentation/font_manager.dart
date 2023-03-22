@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+// 전체를 FontManager 로 감싸서 inner class 로 사용하는 것도 괜찮을 것 같은데.
+
 // fontFamily 보다는 Montserrat 이걸 그대로 사용하거나, main fontfamily 와 같은 식으로 개념에 대한 상수로 설정해주는 것이 좋겠다.
 class FontConstants {
   static const String fontFamily = "Montserrat";
