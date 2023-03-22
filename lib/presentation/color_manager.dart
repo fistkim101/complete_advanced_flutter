@@ -8,4 +8,11 @@ class ColorManager {
   static Color grey = "#737477".fromHexToColor();
   static Color lightGrey = "#9E9E9E".fromHexToColor();
   static Color primaryOpacity70 = "#B3ED9728".fromHexToColor();
+
+  // new colors
+  static Color darkPrimary = "#d17d11".fromHexToColor();
+  static Color grey1 = "#707070".fromHexToColor();
+  static Color grey2 = "#797979".fromHexToColor();
+  static Color white = "#FFFFFF".fromHexToColor();
+  static Color error = "#e61f34".fromHexToColor();
 }
